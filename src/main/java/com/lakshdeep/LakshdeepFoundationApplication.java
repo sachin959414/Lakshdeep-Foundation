@@ -8,6 +8,7 @@ public class LakshdeepFoundationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LakshdeepFoundationApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
